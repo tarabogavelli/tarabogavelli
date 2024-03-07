@@ -1,7 +1,6 @@
 ### Hi!!  👋👋
 <br>
-<br>
-My name is Tara. I'm currently an undergraduate student at Barnard College, Columbia University studying **Computer Science**💻 and **Political Science** 📖.
+My name is Tara. I'm currently an undergraduate student at Barnard College, Columbia University studying *Computer Science*💻 and *Political Science* 📖.
 <br>
 <br>
 I really love reading 📚, crafts 🪡🎨🖌️ (mostly embroidery and painting), and going for walks! I also enjoy making personal projects in my free time. Most of my projects relate to reading and can be found here on Github. 
